@@ -15,3 +15,5 @@ u_lLDate DATETIME,
 u_option VARCHAR(50) ,
 u_note VARCHAR(100)
 );
+
+SELECT * FROM user;
